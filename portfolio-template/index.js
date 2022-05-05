@@ -1,10 +1,10 @@
-const name = 'Your Name'
-const title = 'Your Title'
-const mail = 'Your Email'
+const name = 'Jagdeesh'
+const title = 'developer'
+const mail = 'jagdeeshsen35@gmail.com'
 
 document.getElementById('title').innerText = name
 document.getElementById('name').innerText = name
-document.getElementById('brief-intro').innerText = title
+document.getElementById('brief-intro')erText = title
 document.getElementById(
   'mail'
 ).innerHTML = `<a href="mailto:${mail}" class="btn">${mail}</a>`
