@@ -1,7 +1,7 @@
 sen
 
 const name = 'Jagdeesh sen'
-const title = 'developer'
+const title = 'Developer'
 const mail = 'jagdeeshsen35@gmail.com'
 
 document.getElementById('title').innerText = name
