@@ -1,6 +1,6 @@
 sen
 
-const name = 'Jagdeesh '
+const name = 'Jagdeesh sen'
 const title = 'developer'
 const mail = 'jagdeeshsen35@gmail.com'
 
